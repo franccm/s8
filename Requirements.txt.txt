@@ -1,0 +1,10 @@
+numpy==1.19.2
+trackpy==0.4.2
+matplotlib==3.3.2
+plotly==4.14.3
+psutil==5.7.2
+PIMS=0.5
+scikit-image==0.17.2
+scipy==1.5.3
+tifffile==2020.10.1
+tqdm==4.50.2
